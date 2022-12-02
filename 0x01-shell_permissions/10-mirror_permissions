@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -referenceollen hello
+chmod --referenceollen hello
