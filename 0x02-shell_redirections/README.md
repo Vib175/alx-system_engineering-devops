@@ -1,1 +1,1 @@
-Shell redirection
+redirections file
